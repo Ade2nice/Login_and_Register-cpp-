@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673033262 source:c:\users\my-pc\documents\login and register app\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
